@@ -47,7 +47,7 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ "Lekhok" is a versatile blogging platform designed to streamline content creation and management. The application provides a simple yet robust solution for writing, organizing, and publishing blog posts. Built with a focus on performance and usability, it offers essential features like real-time content editing and draft saving. This project was developed using Kotlin and employs a modern architecture for scalability and maintainability.</code>
 
 ---
 
